@@ -10,7 +10,8 @@
     <h2>Files</h2>
     <ul>
         <li><strong>App.msapp:</strong> The PowerApps app file.</li>
-        <li><strong>Data Source:</strong> Access the data file <strong>ac-sample-data.xlsx</strong> or connect to your data sources.</li>
+        <li><strong>Data Source:</strong> dataverse</li>
+        <li><strong>visitor registration app : app files</strong></li>
     </ul>
     <h2>Getting Started</h2>
     <p><strong>Explore the PowerApps App <a href="https://apps.powerapps.com/play/e/default-5f6a9d3b-86b1-4a22-85a3-d6a3d7a5f2b2/a/6e2f9b4a-c1d3-4e44-92ec-cd6fc6e8f9a6" target="_blank">here</a> for an overview of its functionalities and features.</strong></p>
