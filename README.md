@@ -18,14 +18,14 @@
     <h3>Screenshots of the App</h3>
     <p><strong>Detailed view</strong></p>
     <div>
-        <img src="https://github.com/user-attachments/assets/1260ee1e-8128-4635-94ec-c07fc56b17dd" alt="App Overview" style="max-width: 100%; height: auto;">
-        <img src="https://github.com/user-attachments/assets/b0d173b9-4ddb-4686-859d-44ce6920d793" alt="App Overview" style="max-width: 100%; height: auto;">
-        <img src="https://github.com/user-attachments/assets/f0f12e4f-cf9d-4dc2-9af6-54de7bafefae" alt="App Overview" style="max-width: 100%; height: auto;">
+        <img src="https://github.com/user-attachments/assets/dd19095f-1705-45cb-9522-d517efc5595c" alt="App Overview" style="max-width: 100%; height: auto;">
+        <img src="https://github.com/user-attachments/assets/f72ffbf6-33ed-485a-97ea-a078bdb5a617" alt="App Overview" style="max-width: 100%; height: auto;">
+        <img src="https://github.com/user-attachments/assets/0c0995ff-f552-48ef-927d-b222307d1542" alt="App Overview" style="max-width: 100%; height: auto;">
     </div>
     <br>
     <p><strong>Overview of the main interface</strong></p>
     <div>
-        <img src="https://github.com/user-attachments/assets/6be61b0e-d8f9-4e4e-aa0e-25d37230774c" alt="Main Interface" style="max-width: 100%; height: auto;">
+        <img src="https://github.com/user-attachments/assets/95546b36-cfa2-4f75-a79d-07ca00b95d6f" alt="Main Interface" style="max-width: 100%; height: auto;">
     </div>
     <h3>Steps</h3>
     <ul>
