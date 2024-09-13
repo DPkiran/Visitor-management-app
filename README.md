@@ -29,7 +29,7 @@
     </div>
     <h3>Steps</h3>
     <ul>
-        <li><strong>Open the App:</strong> Open <code>App.msapp</code> in PowerApps Studio.</li>
+        <li><strong>Open the App:</strong> Open <code>Visitor Registration App.msapp</code> in PowerApps Studio.</li>
         <li><strong>Connect Data Sources:</strong> Configure and connect data sources within PowerApps Studio.</li>
     </ul>
     <h2>Usage</h2>
