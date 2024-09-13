@@ -14,7 +14,8 @@
         <li><strong>visitor registration app </strong>: App files </li>
     </ul>
     <h2>Getting Started</h2>
-    <p><strong>Explore the PowerApps App <a href="https://apps.powerapps.com/play/e/default-5f6a9d3b-86b1-4a22-85a3-d6a3d7a5f2b2/a/6e2f9b4a-c1d3-4e44-92ec-cd6fc6e8f9a6" target="_blank">here</a> for an overview of its functionalities and features.</strong></p>
+    <p><strong>App ID:</strong>33365ea6-e8c9-4973-8421-e537b3180373</p>
+    <p><strong>Explore the PowerApps App <a href="https://apps.powerapps.com/play/e/f9849dcf-a2f1-e360-9164-c97607be86d9/a/33365ea6-e8c9-4973-8421-e537b3180373?tenantId=71b778b1-0a13-4b09-bd42-94367e4d13a2&sourcetime=1726203726283" target="_blank">here</a> for an overview of its functionalities and features.</strong></p>
     <h3>Screenshots of the App</h3>
     <p><strong>Detailed view</strong></p>
     <div>
