@@ -9,8 +9,8 @@
     <p>This repository contains a PowerApps project designed for creating custom business applications.</p>
     <h2>Files</h2>
     <ul>
-        <li><strong>App.msapp:</strong> The PowerApps app file.</li>
-        <li><strong>Data Source:</strong> dataverse</li>
+        <li><strong>Visitor Regisitration App.msapp:</strong> The PowerApps app file.</li>
+        <li><strong>Data Source :</strong> dataverse</li>
         <li><strong>visitor registration app </strong>: App files </li>
     </ul>
     <h2>Getting Started</h2>
